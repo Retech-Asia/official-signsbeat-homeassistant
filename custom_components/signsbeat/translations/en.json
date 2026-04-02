@@ -1,0 +1,54 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Account is already configured",
+            "already_in_progress": "Configuration flow is already in progress",
+            "reauth_successful": "Re-authentication was successful"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "reauth_confirm": {
+                "data": {
+                    "pat": "Personal Access Token"
+                },
+                "data_description": {
+                    "pat": "The bearer token used to authenticate with the Signsbeat API."
+                },
+                "description": "The Signsbeat integration needs to re-authenticate. Please provide a new Personal Access Token.",
+                "title": "Authentication expired for {name}"
+            },
+            "user": {
+                "data": {
+                    "pat": "Personal Access Token"
+                },
+                "data_description": {
+                    "pat": "The bearer token used to authenticate with the Signsbeat API."
+                },
+                "description": "Enter your Signsbeat Personal Access Token (PAT). You can generate one from your Signsbeat account settings.",
+                "title": "Connect to Signsbeat"
+            }
+        }
+    },
+    "entity": {
+        "calendar": {
+            "health_scores": {
+                "name": "Health scores"
+            }
+        },
+        "sensor": {
+            "score": {
+                "name": "Health score"
+            },
+            "score_date": {
+                "name": "Score date"
+            },
+            "status": {
+                "name": "Health status"
+            }
+        }
+    }
+}
