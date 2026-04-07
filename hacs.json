@@ -1,5 +1,6 @@
 {
     "name": "Official Signsbeat HomeAssistant",
+    "description": "Official Signsbeat/ Yishii integration. Exposes biomarker inflammation based wellness score and recovery state for automations, dashboards, and ambient awareness.",
     "homeassistant": "2026.3.2",
     "hacs": "2.0.5"
 }

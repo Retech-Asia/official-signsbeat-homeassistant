@@ -1,9 +1,9 @@
 # <img src="https://userinsights.signsbeat.com/favicon.ico" width="28" height="28" alt=""> Yishii by Signsbeat for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub release](https://img.shields.io/github/release/vupham79/ha-integration-signsbeat.svg)](https://github.com/vupham79/ha-integration-signsbeat/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](#license)
 [![HA Version](https://img.shields.io/badge/Home%20Assistant-2024.1%2B-brightgreen.svg)](https://www.home-assistant.io)
+[![GitHub release|202](https://img.shields.io/github/release/vupham79/ha-integration-signsbeat.svg)https://github.com/Retech-Asia/official-signsbeat-homeassistant](https://github.com/Retech-Asia/official-signsbeat-homeassistant)
 
 **Official Home Assistant integration for Yishii** — a sleep and recovery intelligence platform that bridges wearable biometrics and smart home data. This integration pulls your Yishii Health Score into Home Assistant, enabling your home environment to respond intelligently to your physiological state.
 
@@ -67,7 +67,7 @@ This Home Assistant integration brings that score directly into your smart home 
 1. Open **HACS** in your Home Assistant sidebar
 2. Click **Integrations**
 3. Click the **⋮ menu** (top right) → **Custom repositories**
-4. Add the repository URL: `https://github.com/vupham79/ha-integration-signsbeat`
+4. Add the repository URL: `https://github.com/Retech-Asia/official-signsbeat-homeassistant`
 5. Set category to **Integration** → click **Add**
 6. Search for **Signsbeat** → click **Download**
 7. **Restart Home Assistant**
@@ -81,8 +81,6 @@ This Home Assistant integration brings that score directly into your smart home 
 5. Give it a label (e.g. `Home Assistant`)
 6. **Copy the token string** — you will not be able to view it again after leaving the page
 7. Confirm the token status shows **Active** ✅
-
-> 📸 *See the annotated walkthrough in [`docs/api-key-annotated.html`](docs/api-key-annotated.html) for a visual step-by-step guide.*
 
 ### Step 3 — Add the Integration to Home Assistant
 
@@ -417,14 +415,14 @@ automation:
 
 - [ ] Additional biometric sensors (HRV, resting heart rate, sleep stages) as Signsbeat API expands
 - [ ] Historical score statistics for HA Long-Term Statistics support
-- [ ] Yishii Personalised Recommendations module
+- [ ] Yishii Personalised Recommendation module
 - [x] Multi-user / multi-account support
 
 ---
 
 ## Contributing
 
-This is an official Signsbeat integration. Bug reports, feature requests, and pull requests are welcome via the [Issues](https://github.com/vupham79/ha-integration-signsbeat/issues) tab.
+This is an official Signsbeat integration. Bug reports, feature requests, and pull requests are welcome via the [Issues](https://github.com/Retech-Asia/official-signsbeat-homeassistant/issues) tab.
 
 Please include your Home Assistant version, integration version, and relevant logs from **Settings → System → Logs** when filing an issue.
 
