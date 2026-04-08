@@ -1,6 +1,6 @@
 {
-  "domain": "signsbeat",
-  "name": "Signsbeat",
+  "domain": "official-signsbeat-homeassistant",
+  "name": "Official Signsbeat HomeAssistant",
   "codeowners": [
     "@Retech-Asia"
   ],

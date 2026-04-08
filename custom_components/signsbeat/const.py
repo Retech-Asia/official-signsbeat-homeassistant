@@ -7,7 +7,7 @@ from typing import Final
 
 LOGGER: Logger = getLogger(__package__)
 
-DOMAIN: Final = "signsbeat"
+DOMAIN: Final = "official-signsbeat-homeassistant"
 
 ATTRIBUTION: Final = "Data provided by Signsbeat"
 
