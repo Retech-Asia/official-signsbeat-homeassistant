@@ -428,6 +428,14 @@ Please include your Home Assistant version, integration version, and relevant lo
 
 ---
 
+## Support
+
+If you find this integration helpful, consider supporting its development:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/retechasia)
+
+---
+
 ## License
 
 © Signsbeat. All rights reserved.
