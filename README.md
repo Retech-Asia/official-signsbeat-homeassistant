@@ -3,7 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](#license)
 [![HA Version](https://img.shields.io/badge/Home%20Assistant-2024.1%2B-brightgreen.svg)](https://www.home-assistant.io)
-[![GitHub release|202](https://img.shields.io/github/release/vupham79/ha-integration-signsbeat.svg)https://github.com/Retech-Asia/official-signsbeat-homeassistant](https://github.com/Retech-Asia/official-signsbeat-homeassistant)
+[![GitHub release|202](https://img.shields.io/github/release/Retech-Asia/official-signsbeat-homeassistant.svg)](https://github.com/Retech-Asia/official-signsbeat-homeassistant)
 
 **Official Home Assistant integration for Yishii** — a sleep and recovery intelligence platform that bridges wearable biometrics and smart home data. This integration pulls your Yishii Health Score into Home Assistant, enabling your home environment to respond intelligently to your physiological state.
 
@@ -13,7 +13,7 @@
 
 ## What is Signsbeat?
 
-Signsbeat, the company behind the Longevity and lifestyle application Yishii which is a wellness intelligence platform that synthesises data from wearables (Apple Watch, Garmin, Signsbeat Partner device and more), environmental sensors (temperature, humidity, CO₂, ambient noise), dietary logs, and Apple HealthKit / Android Health Connect to produce a **proprietary, inflammation-informed metric. Unlike generic readiness metrics, Yishii's score is grounded in biomarker analysis that is science based giving you a scientific meaningful idea of where your body state is today.
+Signsbeat, the company behind the Longevity and lifestyle application Yishii which is a wellness intelligence platform that synthesises data from wearables (Apple Watch, Garmin, Signsbeat Partner device and more), environmental sensors (temperature, humidity, CO₂, ambient noise), dietary logs, and Apple HealthKit / Android Health Connect to produce a proprietary, inflammation-informed metric. Unlike generic readiness metrics, Yishii's score is grounded in biomarker analysis that is science based giving you a scientific meaningful idea of where your body state is today.
 
 This Home Assistant integration brings that score directly into your smart home ecosystem, so your home can act on your biology and not just your schedule.
 
